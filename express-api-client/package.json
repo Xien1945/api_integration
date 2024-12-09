@@ -2,6 +2,11 @@
   "name": "express-api-client",
   "version": "1.0.0",
   "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
